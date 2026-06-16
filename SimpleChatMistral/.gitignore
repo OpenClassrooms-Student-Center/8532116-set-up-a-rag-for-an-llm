@@ -1,13 +1,13 @@
-# Environnement virtuel
+# Virtual environment
 venv/
 env/
 ENV/
 .venv/
 
-# Fichiers de configuration contenant des informations sensibles
+# Configuration files containing sensitive information
 .env
 
-# Fichiers générés
+# Generated files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -29,11 +29,11 @@ wheels/
 .installed.cfg
 *.egg
 
-# Fichiers de logs
+# Log files
 *.log
 logs/
 
-# Fichiers temporaires
+# Temporary files
 .DS_Store
 .idea/
 .vscode/
@@ -41,7 +41,7 @@ logs/
 *.swo
 *~
 
-# Fichiers de données
+# Data files
 data/
 
 # Jupyter Notebook
